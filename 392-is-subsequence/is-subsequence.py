@@ -10,8 +10,9 @@ class Solution(object):
         lt = len(t)
         if ls>lt:
             return False
-        elif (ls==lt and s==t) or ls==0:
+        elif s==t or ls==0:
             return True
+            
         for j in t:
             if s[i]==j:
                 if i+1==ls:
