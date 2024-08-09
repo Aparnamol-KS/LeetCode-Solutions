@@ -8,6 +8,8 @@ class Solution(object):
         arr = dict()
         count = 0
         for i in nums:
+            if i>k:
+                continue
             if arr.get(k-i,0)==0:
                 arr[i] = arr.get(i,0)+1
                 continue
