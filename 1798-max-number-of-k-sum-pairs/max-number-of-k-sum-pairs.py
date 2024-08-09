@@ -14,5 +14,8 @@ class Solution(object):
                 arr[i] = arr.get(i,0)+1
                 continue
             count +=1
-            arr[k-i]-=1
+            if arr[k-i]==1:
+                del arr[k-i]
+            else:
+                arr[k-i]-=1
         return count
