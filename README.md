@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
