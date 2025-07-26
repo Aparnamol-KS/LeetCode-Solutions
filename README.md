@@ -69,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
+## Greedy
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
