@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0941-sort-array-by-parity](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
