@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Greedy
