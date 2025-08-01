@@ -7,7 +7,4 @@ class Solution:
                 dic[s].append(i)
             else:
                 dic[s] = [i]
-        k = []
-        for values in dic.values():
-            k.append(values)
-        return k
+        return list(dic.values())
