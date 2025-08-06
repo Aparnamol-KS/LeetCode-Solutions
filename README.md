@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
