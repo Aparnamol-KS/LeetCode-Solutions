@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
