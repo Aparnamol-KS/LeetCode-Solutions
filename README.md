@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Greedy
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
