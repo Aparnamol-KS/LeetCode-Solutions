@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Aparnamol-KS/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
